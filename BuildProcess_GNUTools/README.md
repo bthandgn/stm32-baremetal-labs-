@@ -1,4 +1,4 @@
-<img width="1739" height="463" alt="{777C88A1-4199-4B8E-870E-C7F5FA1B649D}" src="https://github.com/user-attachments/assets/6067c8f5-15c5-4346-bb67-50d13c752ccd" /># GNU tools
+# GNU tools
 
 ## arm-none-eabi-gcc
 This command compiles, assembles and links the code.

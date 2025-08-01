@@ -31,10 +31,15 @@ Arm-none-eabi-gcc (source file) -o (output file)  ------- > o: Compile, Assemble
 
 
 Example: arm-none-eabi-gcc -c -mcpu=cortex-m4 -mthumb main.c -o main.o
+
 -c: Compile and Assemble, Do not Link
+
 mcpu=cortex-m4: Processor
+
 -mthumb: Instruction Set
+
 main.c : Source File
+
 main.o : Output File
 
 ## arm-none-eabi-nm

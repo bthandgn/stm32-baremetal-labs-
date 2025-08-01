@@ -34,7 +34,7 @@ Example: arm-none-eabi-gcc -c -mcpu=cortex-m4 -mthumb main.c -o main.o
 
 -c: Compile and Assemble, Do not Link
 
-mcpu=cortex-m4: Processor
+-mcpu=cortex-m4: Processor
 
 -mthumb: Instruction Set
 

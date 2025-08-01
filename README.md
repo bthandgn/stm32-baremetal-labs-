@@ -5,7 +5,7 @@ built on STM32 microcontrollers, focusing on low-level, bare-metal development w
 
 ## Topics Covered
 
-1. [Build Process and GNU Tools](/./Build%20Process%20and%20GNU%20Tools/)
+1. [Build Process and CNU Tools](https://github.com/bthandgn/stm32-baremetal-labs-/tree/main/Build%20Process%20and%20CNU%20Tools)
 2. [Linker Script Lab](./linker-script-lab/)
 3. [Startup File & Reset Handler](./startup-file-demo/)
 4. [Makefile-Based Build System](./makefile-build-system/)

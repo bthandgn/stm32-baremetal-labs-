@@ -1,4 +1,4 @@
-# GNU tools
+<img width="1739" height="463" alt="{777C88A1-4199-4B8E-870E-C7F5FA1B649D}" src="https://github.com/user-attachments/assets/6067c8f5-15c5-4346-bb67-50d13c752ccd" /># GNU tools
 
 ## arm-none-eabi-gcc
 This command compiles, assembles and links the code.
@@ -37,8 +37,29 @@ mcpu=cortex-m4: Processor
 main.c : Source File
 main.o : Output File
 
-##arm-none-eabi-nm
-List the symbols from object files
-##Arm-none-eabi-size
-List the section sizes of object and executable files
+## arm-none-eabi-nm
+-List the symbols from object files
+
+## Arm-none-eabi-size
+-List the section sizes of object and executable files
+
+## arm-none-eabi-objdump
+-Dumps information about an object file
+-Used to analyze an object files
+
+## arm-none-eabi-readelf
+-Display information from elf files
+
+## arm-none-eabi-obcopy
+- Usd to convert object files from one format to another
+- Also used to make a copy of an object file
+## arm-none-eabi-
+
+
+## arm-none-eabi-
+
+## arm-none-eabi-
+
+## arm-none-eabi-
+
 

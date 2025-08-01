@@ -1,4 +1,4 @@
-#The Build Process
+# The Build Process
 The process of converting the high level source code representation into an executable binary image.
 
 Five key steps are involved:

@@ -44,7 +44,8 @@ Five key steps are involved:
 - A final binary (.bin, .hex, etc.) ready for programming onto the target hardware.
 
 
-<img width="1001" height="161" alt="TheBuildProcess_figure" src="https://github.com/user-attachments/assets/8cb72f2e-d554-4bf8-9742-6505474e03ca" />
+
+<img width="1001" height="561" alt="Process_fig1" src="https://github.com/user-attachments/assets/1b9ce0c9-4a2a-4ad5-a646-83a9bacad058" />
 
 
 

@@ -47,6 +47,14 @@ Five key steps are involved:
 
 <img width="1001" height="561" alt="Process_fig1" src="https://github.com/user-attachments/assets/1b9ce0c9-4a2a-4ad5-a646-83a9bacad058" />
 
+## Executable File Formats
+- Executable and Linkable Format(ELF)
+- Common Object File Format(COFF)
+- Intel Hex Record
+- Motorola S Record(SREC)
+- ARM Image Format(AIF)
+- Binary
+
 
 
 

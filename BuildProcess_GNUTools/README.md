@@ -1,3 +1,21 @@
+#The Build Process
+The process of converting the high level source code representation into an executable binary image.
+
+Five key steps are involved:
+- Pre-processing
+- Compiling
+- Assembling
+- Linking
+- Locating
+
+<img width="1001" height="161" alt="TheBuildProcess_figure" src="https://github.com/user-attachments/assets/81af080b-1b8c-4337-b393-1e50bbfdfe22" />
+
+
+
+
+
+
+
 # GNU tools
 
 ## arm-none-eabi-gcc

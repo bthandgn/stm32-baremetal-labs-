@@ -5,7 +5,7 @@ built on STM32 microcontrollers, focusing on low-level, bare-metal development w
 
 ## Topics Covered
 
-1. [Build Process Demo](./build-process-demo/)
+1. [Build Process and GNU Tools](./build-process-and-gnu-tools/)
 2. [Linker Script Lab](./linker-script-lab/)
 3. [Startup File & Reset Handler](./startup-file-demo/)
 4. [Makefile-Based Build System](./makefile-build-system/)

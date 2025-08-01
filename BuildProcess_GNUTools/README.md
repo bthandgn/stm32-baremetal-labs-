@@ -12,10 +12,36 @@ Five key steps are involved:
 
 ## Pre-Processing
 ### Purpose
-Handles directives like "#include" ,"#define" and conditional compilation("#if",'#ifdef', etc.). It prepares the source code for compilation by expanding macros and resolving file inclusions.
+- Handles directives like "#include" ,"#define" and conditional compilation("#if",'#ifdef', etc.). It prepares the source code for compilation by expanding macros and resolving file inclusions.
 ### Output
-A translation unit(.i or .ii file) with all preprocessor instructions resolved into plain source code.
+- A translation unit(.i or .ii file) with all preprocessor instructions resolved into plain source code. 
 
+## Compiling
+### Purpose
+- Translates high-level C/C++ code into assembly instructions specific to the target architecture.
+### Output
+- An assembly file (.s or .asm) representing the program logic in human-readable machine instructions.
+
+## Assembling
+### Purpose
+- Converts the assembly code into machine code (object code) by encoding instructions into binary format.
+
+### Output
+- An object file (.obj or .o) containing relocatable machine code and metadata like symbol tables.
+
+## Linking
+### Purpose
+- Resolves symbol references between object files and libraries, merges sections (e.g., .text, .data), and organizes them into a final program structure.
+
+### Output
+- An executable image (.elf, .out) with all dependencies resolved.
+
+## Locating
+### Purpose
+- Maps sections of the executable to specific memory regions based on a linker script, ensuring proper placement for flash, RAM, and peripheral-mapped areas.
+
+### Output
+- A final binary (.bin, .hex, etc.) ready for programming onto the target hardware.
 
 
 

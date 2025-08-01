@@ -10,6 +10,10 @@ Five key steps are involved:
 
 <img width="1001" height="161" alt="TheBuildProcess_figure" src="https://github.com/user-attachments/assets/81af080b-1b8c-4337-b393-1e50bbfdfe22" />
 
+## Pre-Processing
+### Purpose: Handles directives like "#include" ,"#define" and conditional compilation("#if",'#ifdef', etc.). It prepares the source code for compilation by expanding macros and resolving file inclusions.
+### Output: A translation unit(.i or .ii file) with all preprocessor instructions resolved into plain source code.
+
 
 
 

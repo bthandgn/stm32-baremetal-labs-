@@ -1,7 +1,7 @@
 # GNU tools
 
 ## arm-none-eabi-gcc
-This command compiles, assembles and links the code.
+- This command compiles, assembles and links the code.
 Example:
 Arm-none-eabi-gcc (source file) -o (output file) 	           
 E.g : arm-none-eabi-gcc main.c -o main.o		              
@@ -43,20 +43,20 @@ main.c : Source File
 main.o : Output File
 
 ## arm-none-eabi-nm
--List the symbols from object files
+- List the symbols from object files
 
 ## Arm-none-eabi-size
--List the section sizes of object and executable files
+- List the section sizes of object and executable files
 
 ## arm-none-eabi-objdump
--Dumps information about an object file
--Used to analyze an object files
+- Dumps information about an object file
+- Used to analyze an object files
 
 ## arm-none-eabi-readelf
--Display information from elf files
+- Display information from elf files
 
 ## arm-none-eabi-obcopy
-- Usd to convert object files from one format to another
+- Used to convert object files from one format to another
 - Also used to make a copy of an object file
 
 

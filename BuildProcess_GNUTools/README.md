@@ -53,13 +53,6 @@ main.o : Output File
 ## arm-none-eabi-obcopy
 - Usd to convert object files from one format to another
 - Also used to make a copy of an object file
-## arm-none-eabi-
 
-
-## arm-none-eabi-
-
-## arm-none-eabi-
-
-## arm-none-eabi-
 
 
